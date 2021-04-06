@@ -1,0 +1,7 @@
+pasta
+
+spices
+
+sauces
+
+vegetables
